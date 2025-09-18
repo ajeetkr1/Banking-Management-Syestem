@@ -1,0 +1,12 @@
+1.Accounts
+acc_accno int primary key autoincrement
+acn_name text
+acn_pswd text
+acn_email text
+acn_mob text
+acn_adhar text
+acn_addrs text
+acn_dob text
+acn_bal float
+acn_gender text
+acn_nominee text
